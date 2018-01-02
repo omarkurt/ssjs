@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/omarkurt/ssjs.svg?branch=master)](https://travis-ci.org/omarkurt/ssjs)
 # SSJS Web Shell Injection Case
 
 ![Netsparker Node.js RCE](https://i.imgur.com/VxXsAS7.png)
